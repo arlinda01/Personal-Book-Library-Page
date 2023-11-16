@@ -3,49 +3,56 @@
       "title": "The 272",
       "author": "Rachel L. Swarns",
       "cover": "./images/The272.webp",
-      "desciption": "Text, text teeeeeext"
+      "desciption": "In 1838, 272 enslaved people were sold by a group of American priests to save the country’s first Roman Catholic institution of higher learning—what is now Georgetown University—from financial ruin. But this decision would do more than save the college."
     },
 
     {
       "title": "A Living Remedy",
       "author": "Nicole Chung",
-      "cover": "./images/ALivingRemedy.webp"
+      "cover": "./images/ALivingRemedy.webp",
+      "desciption": "A Living Remedy is an elegy for her adopted parents, who died within two years of one another. First, Chung lost her father in early 2018, before the release of her first book, to late-stage kidney failure made worse by the diabetes he was unable"
     },
 
     {
       "title": "Absolution",
       "author": "Alice McDermott",
-      "cover": "./images/Absolution.webp"
+      "cover": "./images/Absolution.webp",
+      "desciption": "The book begins in 1963 Saigon, with Tricia, a shy newlywed, whose lawyer husband is working for Navy intelligence as a “civilian advisor.” She soon finds herself forming an unlikely alliance with Charlene, a seasoned military wife and mother of three."
     },
 
     {
       "title": "After Sappho",
       "author": "Selby Wynn Schwartz",
-      "cover": "./images/AfterSappho.jpg"
+      "cover": "./images/AfterSappho.jpg",
+      "desciption": "An experiment in form, After Sappho is told in the collective voice and uses the pronoun “we” to knit together biographical anecdotes from the lives of many historical women, including Virginia Woolf, Gertrude Stein, and Italian writer Lina Poletti. "
     },
 
     {
         "title": "All Souls",
         "author": "Saskia Hamilton",
-        "cover": "./images/AllSouls.webp"
+        "cover": "./images/AllSouls.webp",
+        "description": "Saskia Hamilton latest poetry collection, All Souls, was written before her death from cancer earlier this year at the age of 56. Broken into four lyrical sequences, her final anthology is a meditation on death and dying that reflects on the totality of her life."
       },
   
       {
         "title": "All the Sinners Bleed",
         "author": "S.A. Cosby",
-        "cover": "./images/AllTheSinnersBleed.jpg"
+        "cover": "./images/AllTheSinnersBleed.jpg",
+        "desciption": "All the Sinners Bleed is the rare detective story that’s well aware of how racist policing muddies the morality of cop protagonists, and is a book that will leave you breathlessly turning pages until its final showdown."
       },
   
       {
         "title": "Anansi's Gold",
         "author": "Yepoka Yeebo",
-        "cover": "./images/AnansisGold.jpg"
+        "cover": "./images/AnansisGold.jpg",
+        "desciption": "Journalist Yepoka Yeebo’s Anansi’s Gold: The Man Who Looted the West, Outfoxed Washington, and Swindled the World tells the story of how audacious Ghanaian con man John Ackah Blay-Miezah pulled off one of the longest-running scams of the 20th century."
       },
   
       {
         "title": "August Blue",
         "author": "Deborah Levy",
-        "cover": "./images/AugustBlue.webp"
+        "cover": "./images/AugustBlue.webp",
+        "desciption": "At the center of Booker Prize finalist Deborah Levy’s cutting novel is Elsa M. Anderson, a 30-something British virtuoso whose piano performance in Vienna comes to a surprising halt when she walks off the stage and into chaos of her own creation."
       }
 
 ]

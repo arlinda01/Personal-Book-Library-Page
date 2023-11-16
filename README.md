@@ -24,7 +24,7 @@ JSON: Data format used for storing book information.
 
 ## Installation and Setup
 ### Clone the Repository
-git clone https://github.com/arlinda01/Personal-Book-Library-Page.git 
+gh repo clone arlinda01/Personal-Book-Library-Page
 
 ### Navigate to the Project Directory
 cd path/to/project
