@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Book Library Page with Local JSON Data</title>
+    <link rel="stylesheet" href="./sass/main.css">
+</head>
+
+<body>
+    <!-- Navigation Bar -->
+    <div class="navbar">
+        <div class="navbar-container">
+            <div class="logo-container">
+                <a href="#">LibraryStudio</a>
+            </div>
+            <div class="menu-container">
+                <a href="#">Home</a>
+                <a href="#">Categories</a>
+                <a href="#">About</a>
+            </div>
+            <div class="user-container">
+                <a href="#">Login</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Content Area -->
+    <div class="main-content">
+        <div class="content-section">
+            <h1>Welcome to Library Management Studio</h1>
+
+        </div>
+
+        <div class="content-section">
+            <div id="book-grid"></div>
+        </div>
+
+    </div>
+
+    <!-- Footer -->
+    <div class="footer">
+        <p>© Arlinda - Interview Purpose</p>
+    </div>
+
+
+
+    <script>
+    document.addEventListener('DOMContentLoaded', function () {
+            fetch('./book.json')
+                .then(response => response.json())
+                .then(books => {
+                    const grid = document.getElementById('book-grid');
+                    books.forEach(book => {
+                        const bookDiv = document.createElement('div');
+                        bookDiv.className = 'book';
+                        bookDiv.innerHTML = `
+                        <img src="${book.cover}" alt="${book.title}" />
+                            <h3>${book.title}</h3>
+                            <p>Author: ${book.author}</p>
+                            <p>Description: ${book.desciption}</p>
+                    
+                        `;
+                        grid.appendChild(bookDiv);
+                    });
+                })
+                .catch(error => console.error('Error:', error));
+        });
+    </script>
+
+</body>
+
+</html>

@@ -1,0 +1,51 @@
+[
+    {
+      "title": "The 272",
+      "author": "Rachel L. Swarns",
+      "cover": "./images/The272.webp",
+      "desciption": "Text, text teeeeeext"
+    },
+
+    {
+      "title": "A Living Remedy",
+      "author": "Nicole Chung",
+      "cover": "./images/ALivingRemedy.webp"
+    },
+
+    {
+      "title": "Absolution",
+      "author": "Alice McDermott",
+      "cover": "./images/Absolution.webp"
+    },
+
+    {
+      "title": "After Sappho",
+      "author": "Selby Wynn Schwartz",
+      "cover": "./images/AfterSappho.jpg"
+    },
+
+    {
+        "title": "All Souls",
+        "author": "Saskia Hamilton",
+        "cover": "./images/AllSouls.webp"
+      },
+  
+      {
+        "title": "All the Sinners Bleed",
+        "author": "S.A. Cosby",
+        "cover": "./images/AllTheSinnersBleed.jpg"
+      },
+  
+      {
+        "title": "Anansi's Gold",
+        "author": "Yepoka Yeebo",
+        "cover": "./images/AnansisGold.jpg"
+      },
+  
+      {
+        "title": "August Blue",
+        "author": "Deborah Levy",
+        "cover": "./images/AugustBlue.webp"
+      }
+
+]
